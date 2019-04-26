@@ -2,7 +2,7 @@
 
 # MEAN Stack CRUD App
 
-A Robo Friend Finder Application With React/Tachyons/RobohashAPI/JSONPlaceholderAPI/Heroku
+A Shopping List Application With MongoDB/Express/Angular/Node
 
 MEAN Stack Architecture
 
@@ -19,13 +19,11 @@ D ---> Update ---> .delete()
 
 ## Description
 
-This application demonstrates a simple React application with a front end implemented with HTML/CSS and elements from the Tachyons framework. It utilizes Robo Hash API to display various robots and JSON Placeholder to create a REST API for testing and prototyping.
-
-The user may enter any robot name to search it on the REST API.
+This application demonstrates a simple MEAN Stack application with a front end implemented with HTML/CSS.
 
 ## Demo
 
-The demo of the Robo Friend Finer Application can be found [here](https://robofriends3.herokuapp.com/).
+The demo of the Shopping List Application can be found [here](https://.herokuapp.com/).
 
 ## Installation
 
@@ -35,7 +33,7 @@ To run the application locally, first clone this repository with the following c
 	
 Next, install the application dependencies.
 
-	cd robofriends
+	cd shopping-list-app
 	npm install
 	
 Finally, run the node server locally.
